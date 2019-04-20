@@ -7,3 +7,13 @@ C:\Users\Student.DESKTOP-JFLC3TS\Desktop\DrawApp\DrawApp.UI\obj\Debug\DrawApp.UI
 C:\Users\Student.DESKTOP-JFLC3TS\Desktop\DrawApp\DrawApp.UI\obj\Debug\DrawApp.UI.csproj.CoreCompileInputs.cache
 C:\Users\Student.DESKTOP-JFLC3TS\Desktop\DrawApp\DrawApp.UI\obj\Debug\DrawApp.UI.exe
 C:\Users\Student.DESKTOP-JFLC3TS\Desktop\DrawApp\DrawApp.UI\obj\Debug\DrawApp.UI.pdb
+C:\Users\Student.DESKTOP-JFLC3TS\Source\Repos\EuroChampionshipDraw\DrawApp\DrawApp.UI\bin\Debug\DrawApp.UI.exe.config
+C:\Users\Student.DESKTOP-JFLC3TS\Source\Repos\EuroChampionshipDraw\DrawApp\DrawApp.UI\bin\Debug\DrawApp.UI.exe
+C:\Users\Student.DESKTOP-JFLC3TS\Source\Repos\EuroChampionshipDraw\DrawApp\DrawApp.UI\bin\Debug\DrawApp.UI.pdb
+C:\Users\Student.DESKTOP-JFLC3TS\Source\Repos\EuroChampionshipDraw\DrawApp\DrawApp.UI\obj\Debug\DrawApp.UI.MainForm.resources
+C:\Users\Student.DESKTOP-JFLC3TS\Source\Repos\EuroChampionshipDraw\DrawApp\DrawApp.UI\obj\Debug\DrawApp.UI.Properties.Resources.resources
+C:\Users\Student.DESKTOP-JFLC3TS\Source\Repos\EuroChampionshipDraw\DrawApp\DrawApp.UI\obj\Debug\DrawApp.UI.csproj.GenerateResource.cache
+C:\Users\Student.DESKTOP-JFLC3TS\Source\Repos\EuroChampionshipDraw\DrawApp\DrawApp.UI\obj\Debug\DrawApp.UI.csproj.CoreCompileInputs.cache
+C:\Users\Student.DESKTOP-JFLC3TS\Source\Repos\EuroChampionshipDraw\DrawApp\DrawApp.UI\obj\Debug\DrawApp.UI.exe
+C:\Users\Student.DESKTOP-JFLC3TS\Source\Repos\EuroChampionshipDraw\DrawApp\DrawApp.UI\obj\Debug\DrawApp.UI.pdb
+C:\Users\Student.DESKTOP-JFLC3TS\Source\Repos\EuroChampionshipDraw\DrawApp\DrawApp.UI\obj\Debug\DrawApp.UI.Forms.GroupForm.resources
